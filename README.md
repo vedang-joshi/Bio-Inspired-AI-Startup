@@ -28,7 +28,7 @@ $ pip install sci-kit learn
 $ pip install matplotlib 
 ```
 
-## Author
+## Authors
 
 * **Vedang Joshi**  - [Personal Page](https://vedang-joshi.github.io)
 * **Shane Hoeberichts**
