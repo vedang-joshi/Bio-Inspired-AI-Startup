@@ -14,27 +14,24 @@ $ conda update --all
 ```
 - You may create a new [virtual environment](https://docs.python.org/3/tutorial/venv.html) (called `env`) as follows:
 ```bash
-$ conda create -n env python=3.8 anaconda
+$ conda create -n env python=3.7 anaconda
 ```
 ### Dependencies
 
 - Install python external dependencies after activating `env`: 
 ```bash
 $ conda activate env
-$ pip install -r requirements.txt
+$ pip install pandas
+$ pip install tensorflow
+$ pip install keras
+$ pip install sci-kit learn
+$ pip install matplotlib 
 ```
-### Dopri/Radau and AUTO interface requirements
-- Install [swig](http://www.swig.org): 
-```bash
-$ conda install -c anaconda swig
-```
-
-## Notes
-Reproduction of figure 6 may be done using the corresponding code but involves parallelisation and the use of multiple cores. For ease of reproduction, we recommend downloading 'max_values_list_Z.pkl' and 'vm3_value_list.pkl' and instead running 'figure_6_after_parallel.py'.
 
 ## Author
 
 * **Vedang Joshi**  - [Personal Page](https://vedang-joshi.github.io)
+* **Shane Hoeberichts**
 
 
 ## License
