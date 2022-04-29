@@ -1,4 +1,4 @@
-# Predicting gradual and sharp temperature drops to prevent cold water shocks
+# AquaSafe: Predicting gradual and sharp temperature drops to prevent cold water shocks
 
 This repository contains the Python code to reproduce the proposed neural network in the coursework for [EMATM0029: Bio-Inspired Artificial Intelligence](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=EMATM0029). A saved version of this neural net may be found at Neural Net v1.0/. The Jupyter Notebook to run may be found at Neural Net v1.0/ - there are no dependencies on any other python file. This Jupyter Notebook also produces the plots found in Neural Net v1.0/Accuracy plots/.
 
