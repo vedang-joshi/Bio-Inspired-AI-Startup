@@ -31,7 +31,7 @@ $ pip install matplotlib
 ## Authors
 
 * **Vedang Joshi**  - [Personal Page](https://vedang-joshi.github.io)
-* **Shane Hoeberichts**
+* **Shane Hoeberichts** - [Linkedin Profile](https://www.linkedin.com/in/shane-hoeberichts-b249001b8/?originalSubdomain=uk)
 
 
 ## License
