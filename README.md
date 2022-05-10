@@ -29,7 +29,7 @@ $ pip install matplotlib
 ```
 
 ## Results
-### Results
+![net architecture](/Results/neural_net_architecture.jpg) 
 ![cnn results](/Results/results.jpg) 
 
 ## Authors
