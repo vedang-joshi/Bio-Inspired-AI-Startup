@@ -28,6 +28,10 @@ $ pip install sci-kit learn
 $ pip install matplotlib 
 ```
 
+## Results
+### Results
+![cnn results](cnn_results.png) 
+
 ## Authors
 
 * **Vedang Joshi**  - [Personal Page](https://vedang-joshi.github.io)
