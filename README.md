@@ -30,7 +30,7 @@ $ pip install matplotlib
 
 ## Results
 ### Results
-![cnn results](cnn_results.png) 
+![cnn results](/Results/results.jpg) 
 
 ## Authors
 
